@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC>
+    <qresource prefix="mainico">
+        <file>PhotoLabeling.ico</file>
+    </qresource>
+</RCC>
+
